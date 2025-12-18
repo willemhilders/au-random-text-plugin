@@ -3,7 +3,7 @@
 	"slug" : "random-text-plugin",
 	"author" : "<a href='https://willemhilders.nl'>Willem Hilders</a>",
 	"author_profile" : "https://willemhilders.nl",
-	"version" : "0.0.4",
+	"version" : "0.0.5",
 	"download_url" : "https://willemhilders.nl/plugins/tree/main/random-text-plugin/random-text-plugin.zip",
 	"requires" : "6.9",
 	"tested" : "6.9",
@@ -12,7 +12,7 @@
 	"sections" : {
 		"description" : "Deze plugin definieert een kassa systeem voor de KGW",
 		"installation" : "Klik the activate button om de plugin te activeren en te kunnen gebruiken.",
-		"changelog" : "<h4>0.0.4 –  17-12-2025</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+		"changelog" : "<h4>0.0.5 18-12-2025</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
 	},
 	"banners" : {
 		"low" : "https://willemhilders.nl/random-text-plugin/kassa.png",
